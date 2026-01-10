@@ -13,9 +13,7 @@
 ### 📊 آمار فعالیت‌های من در گیت‌هاب:
 
 ![آمار من](https://github-readme-stats.vercel.app/api?username=masoumehr155-ai&show_icons=true&theme=radical)
-
 ![زبان‌های من](https://github-readme-stats.vercel.app/api/top-langs/?username=masoumehr155-ai&layout=compact&theme=vision-friendly-dark)
-
 ---
 👁‍🗨 تعداد بازدید:
 ![Visit Counter](https://profile-counter.glitch.me/masoumehr155-ai/count.svg)
