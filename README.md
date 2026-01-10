@@ -7,8 +7,17 @@
 * ✅ کار با مخازن گیت‌هاب
 * ✅ مستندسازی با مارک‌داون
 * ✅ طراحی پروفایل شخصی
+### 📊 آمار فعالیت‌های من:
+
+![آمار](https://github-readme-stats.vercel.app/api?username=masoumehr155-ai&show_icons=true&theme=radical)
+
+![زبان‌ها](https://github-readme-stats.vercel.app/api/top-langs/?username=masoumehr155-ai&layout=compact&theme=vision-friendly-dark)
 
 ---
+### 👁‍🗨 تعداد بازدید:
+![Counter](https://profile-counter.glitch.me/masoumehr155-ai/count.svg)
+---
+
 👁‍🗨 تعداد بازدید از پروفایل من:
 
 ![Visit Counter](https://profile-counter.glitch.me/masoumehr155-ai/count.svg)
