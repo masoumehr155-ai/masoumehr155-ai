@@ -21,10 +21,6 @@
 ![Visit Counter](https://profile-counter.glitch.me/masoumehr155-ai/count.svg)
 
 ---
-👁‍🗨 تعداد بازدید:
-![Visit Counter](https://profile-counter.glitch.me/masoumehr155-ai/count.svg)
-
----
 👁‍🗨 تعداد بازدید از پروفایل من:
 
 ![Visit Counter](https://profile-counter.glitch.me/masoumehr155-ai/count.svg)
